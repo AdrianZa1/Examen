@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Examen</string>
+    <string name="culinary">culinary</string>
+    <string name="design">design</string>
+    <string name="drawing">drawing</string>
+    <string name="ecology">ecology</string>
+    <string name="engineering">engineering</string>
+    <string name="estudiante1">estudiante1</string>
+    <string name="estudiante2">estudiante2</string>
+    <string name="estudiante3">estudiante3</string>
+    <string name="estudiante4">estudiante4</string>
+</resources>
